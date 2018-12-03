@@ -32,7 +32,7 @@ public class new_year_chaos {
         System.out.println(bribes);
     }
 
-    // Complete the minimumBribes function below.
+    // Complete the minimumBribes function below. DOESN'T WORK
     private static void minimumBribes2(int[] q) {
 
         int bribes = 0;
