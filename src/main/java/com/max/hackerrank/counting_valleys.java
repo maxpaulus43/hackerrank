@@ -1,3 +1,5 @@
+package com.max.hackerrank;
+
 import java.io.IOException;
 import java.util.Scanner;
 

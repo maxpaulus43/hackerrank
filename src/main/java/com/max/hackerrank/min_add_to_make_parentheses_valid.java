@@ -1,3 +1,5 @@
+package com.max.hackerrank;
+
 public class min_add_to_make_parentheses_valid {
     public static void main(String[] args) {
 

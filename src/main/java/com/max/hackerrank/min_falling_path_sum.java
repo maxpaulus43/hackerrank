@@ -1,3 +1,5 @@
+package com.max.hackerrank;
+
 import java.util.Arrays;
 
 public class min_falling_path_sum {

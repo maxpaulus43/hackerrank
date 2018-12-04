@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package com.max.hackerrank;
 
 public class three_sum_with_multiplicity {
 

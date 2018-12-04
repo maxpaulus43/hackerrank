@@ -1,3 +1,5 @@
+package com.max.hackerrank;
+
 import java.util.HashSet;
 import java.util.Set;
 

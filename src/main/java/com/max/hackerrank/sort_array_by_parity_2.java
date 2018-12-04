@@ -1,3 +1,5 @@
+package com.max.hackerrank;
+
 import java.util.Arrays;
 
 public class sort_array_by_parity_2 {

@@ -1,3 +1,5 @@
+package com.max.hackerrank;
+
 public class long_pressed_name {
 
     public boolean isLongPressedName(String name, String typed) {

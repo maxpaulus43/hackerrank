@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package com.max.hackerrank;
 
 public class new_year_chaos {
     public static void main(String[] args) {
